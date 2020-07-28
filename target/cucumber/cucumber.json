@@ -1,0 +1,102 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Search the flights",
+        "description": "",
+        "id": "kayak-appication-automation-testcases;search-the-flights",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9006583000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "open the browser",
+            "match": {
+              "location": "kayakpagesteps.open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6487500,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.kayak.stepDefinitionFile.kayakpagesteps.enter_the_source_city_name(kayakpagesteps.java:42)\r\n\tat ✽.Then Enter the source city name(kayak.feature:4)\r\n",
+              "status": "failed"
+            },
+            "line": 4,
+            "name": "Enter the source city name",
+            "match": {
+              "location": "kayakpagesteps.enter_the_source_city_name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Enter the destination city name",
+            "match": {
+              "location": "kayakpagesteps.enter_the_destination_city_name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click on the calender",
+            "match": {
+              "location": "kayakpagesteps.click_on_the_calender()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "click on search flights",
+            "match": {
+              "location": "kayakpagesteps.click_on_search_flights()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "click on particular flight in the flights list",
+            "match": {
+              "location": "kayakpagesteps.click_on_particular_flight_in_the_flights_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "quitbrowser",
+            "match": {
+              "location": "kayakpagesteps.quitbrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Kayak appication automation testcases",
+    "description": "",
+    "id": "kayak-appication-automation-testcases",
+    "keyword": "Feature",
+    "uri": "kayak.feature"
+  }
+]

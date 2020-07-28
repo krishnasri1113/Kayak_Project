@@ -1,0 +1,18 @@
+2020-07-27 23:07:56 INFO  kayakpagesteps 24 - https://www.kayak.com/flights
+2020-07-27 23:07:56 INFO  kayakpagesteps 25 - Entered the URL
+2020-07-27 23:07:56 INFO  commonUtilites 24 - TestData PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/TestData.properties
+2020-07-27 23:07:56 INFO  commonUtilites 32 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-07-27 23:07:58 INFO  kayakpagesteps 37 - Entered the source city
+2020-07-27 23:07:58 INFO  commonUtilites 24 - TestData PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/TestData.properties
+2020-07-27 23:07:58 INFO  commonUtilites 32 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-07-27 23:08:00 INFO  kayakpagesteps 49 - Entered the destination city
+2020-07-27 23:08:01 INFO  kayakpagesteps 58 - selected the start and  end dates
+2020-07-27 23:08:02 INFO  kayakpagesteps 66 - searched the flights
+2020-07-27 23:08:04 INFO  kayakpagesteps 75 - clicked on particular flight
+2020-07-27 23:08:04 INFO  kayakpagesteps 79 - SFO - HYD
+2020-07-27 23:08:04 INFO  kayakpagesteps 80 - SFO - HYD
+2020-07-27 23:08:05 INFO  kayakpagesteps 89 - quit the browser
+2020-07-27 23:18:56 INFO  kayakpagesteps 30 - https://www.kayak.com/flights
+2020-07-27 23:18:56 INFO  kayakpagesteps 31 - Entered the URL
+2020-07-27 23:18:56 INFO  commonUtilites 24 - TestData PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/TestData.properties
+2020-07-27 23:18:56 INFO  commonUtilites 32 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\Kayak_Cucumber/src/main/resources/Properties/Log4j.properties
